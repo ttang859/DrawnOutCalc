@@ -1,5 +1,4 @@
 # DrawnOutCalc
-Link to video of project: https://sites.google.com/view/drawnoutcalculator/final-report
 
 Description:
 - Code that utilizes capacitance pads to manipulate and represent digits and put output onto OLED screen
