@@ -1,4 +1,4 @@
-//sourced from https://www.thingiverse.com/thing:248009
+//sourced movement functions from https://www.thingiverse.com/thing:248009
 // When in calibration mode, adjust the following factor until the servos move exactly 90 degrees
 #define SERVOFAKTORLEFT 610
 #define SERVOFAKTORRIGHT 620
